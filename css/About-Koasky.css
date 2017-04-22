@@ -14,3 +14,18 @@ font-style: italic;
    color: purple;
    font-style: italic;
     }
+
+  .about{
+  color: black;
+  font-style: normal;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 25px
+   }
+   .review{
+   color: black;
+   font-style: normal;
+   text-align:justify;
+   font-family: Helvetica;
+   font-size: 18px
+    }
